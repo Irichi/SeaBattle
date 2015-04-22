@@ -11,6 +11,8 @@ public class Start {
     public Start(int a, int b) {
         this.a = a;
         this.b = b;
+
+        int c=7;
     }
 
     public static void main(String[] args) {
